@@ -70,13 +70,20 @@ Fast predictions: <100ms
 Performance depends on dataset quality
 
 📁 Project Structure
+
 sentiment_analyzer/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── sentiment_model.pkl
+
 ├── datasets/
+
 └── README.md
+
 
 🎓 Use Cases
 
